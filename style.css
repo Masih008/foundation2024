@@ -1,0 +1,13 @@
+p {
+    font-size: 36px;
+    color: rgb(202, 26, 135);
+    text-align: center;
+}
+#secondparagraph {
+    background-color: black;
+}
+.commonparagraph {
+    text-decoration: underline;
+    font-size: 24px;
+    
+}
